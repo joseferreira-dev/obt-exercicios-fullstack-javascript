@@ -8,5 +8,7 @@
 	<img src="repository-assets/badge-uses-javascript.svg" style="margin: 0 5px">
 </div>
 <br>
+
 # Programador FullStack JavaScript
+
 Repositório com as minhas resoluções dos exercícios do curso Programador FullStack JavaScript da OneBitCode.
