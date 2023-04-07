@@ -1,6 +1,6 @@
 alert("Bem-vindo ao conversor de distâncias em anos-luz!");
 
-let distance = prompt("Insira a distância em anos-luz:");
+let distance = prompt("Insira a distância em anos-luz: ");
 
 let option = prompt("Digite o número da opção de desejada:\n\n1 - Converter para Parsec (pc)\n2 - Converter para Unidades Astronômicas (AU)\n3 - Converter para quilômetros (km)");
 
