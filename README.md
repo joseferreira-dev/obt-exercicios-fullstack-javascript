@@ -1,8 +1,16 @@
+<style type="text/css">
+	
+	.badges img {
+		margin: 0 5px;
+	}
+
+</style>
+
 <div align="center">
 	<img src="repository-assets/banner.png">
 </div>
 <br>
-<div align="center">
+<div class="badges" align="center">
 	<img src="repository-assets/badge-uses-html5.svg">
 	<img src="repository-assets/badge-uses-css3.svg">
 	<img src="repository-assets/badge-uses-javascript.svg">
